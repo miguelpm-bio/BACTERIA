@@ -1,0 +1,5 @@
+{
+  "name": "Bacteria 2.0",
+  "description": "An expert system for identifying microorganisms based on morphological and physiological characteristics using Gemini AI.",
+  "requestFramePermissions": []
+}
